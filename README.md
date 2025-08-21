@@ -10,8 +10,6 @@
 
 ---
 
----
-
 ## 🛠️ Languages & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -37,15 +35,6 @@
 
 ---
 
-<h1 align="center"><span style="color:#00CED1;">Featured Projects</span></h1>
-
-| Project               | Description                                                                                                               | Tech Stack            | Features                                                                                                                     | Live Demo           |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| **Tech Flow**         | A modern e-commerce web app designed with a sleek, responsive layout for showcasing and selling tech products.            | HTML, CSS, JavaScript | - Product categories with filtering<br>- Shopping cart system<br>- Responsive design<br>- User-friendly navigation           | View Live Demo(https://cheropbecky.github.io/Techflow/) |
-| **Luxx Liquor Store** | A dark-themed online liquor store that provides an elegant shopping experience for wines, beers, vodkas, and soft drinks. | HTML, CSS, JavaScript | - Add to Cart functionality<br>- Cart modal with checkout flow<br>- Search & price filter<br>- Responsive across all devices | View Live Demo(https://cheropbecky.github.io/luxx-liquor-store/) |
-
----
-
 <h1 align="center"><span style="color:#00CED1;">Github Analytics</span></h1>
 
 <p align="center">
@@ -59,8 +48,6 @@
 
 ---
 
----
-
 <h1 align="center"><span style="color:#00CED1;">Let's Connect</span></h1>
 
 <p align="center">
@@ -69,10 +56,6 @@
   <a href="https://instagram.com/beck.y_6705"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:cheropbecky348@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
-
-
----
-
 
 ---
 
