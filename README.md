@@ -1,41 +1,36 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi, I'm <span style="color:#00CED1;">Becky Cherop</span></h1>
+<h1 align="center">Hi, I'm <span style="color:#FF69B4;">Becky Cherop 💖</span></h1>
 
-<h3 align="center">Frontend Web Developer | Aspiring Full-Stack Developer  |  Based in Nairobi Kenya</h3>
+<h3 align="center">Frontend Web Developer | Aspiring Full-Stack Developer | Based in Nairobi, Kenya</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00CED1&width=600&lines=Passionate+Frontend+Developer;Aspiring+Full+Stack+Developer;Crafting+Scalable+Web+Applications;Lifelong+Learner+%26+Open+Source+Contributor" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FF69B4&width=600&lines=Passionate+Frontend+Developer;Aspiring+Full+Stack+Developer;Crafting+Scalable+Web+Applications;Lifelong+Learner+%26+Open+Source+Contributor" alt="Typing animation" />
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
-<h1 align="center"><span style="color:#00CED1;">Github Analytics</span></h1>
+## 🌸 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheropbecky&layout=compact&theme=radical&hide=html" alt="Most Used Languages" />
+</p>
+
+---
+
+<h1 align="center"><span style="color:#FF69B4;">GitHub Analytics</span></h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cheropbecky&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
@@ -48,7 +43,7 @@
 
 ---
 
-<h1 align="center"><span style="color:#00CED1;">Let's Connect</span></h1>
+<h1 align="center"><span style="color:#FF69B4;">Let's Connect 💕</span></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/becky-cherop-379525374/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
@@ -59,4 +54,4 @@
 
 ---
 
-From   Becky Cherop(https://github.com/cheropbecky)
+From   Becky Cherop (https://github.com/cheropbecky)
